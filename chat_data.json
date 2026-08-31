@@ -1,0 +1,76 @@
+{
+  "chats": [
+    {
+      "id": "1",
+      "contactName": "Mateo Silva",
+      "lastMessage": "Dale, nos vemos mañana en la office",
+      "timestamp": "14:32",
+      "unreadCount": 2,
+      "avatarUrl": "https://picsum.photos"
+    },
+    {
+      "id": "2",
+      "contactName": "Sofía Costas",
+      "lastMessage": "Te envié los diseños por mail",
+      "timestamp": "11:15",
+      "unreadCount": 0,
+      "avatarUrl": "https://picsum.photos"
+    },
+    {
+      "id": "3",
+      "contactName": "Lucas Pereyra",
+      "lastMessage": "¡Buenísimo el avance de la app!",
+      "timestamp": "Ayer",
+      "unreadCount": 0,
+      "avatarUrl": "https://picsum.photos"
+    },
+    {
+      "id": "4",
+      "contactName": "Martina Gómez",
+      "lastMessage": "Fijate si podés revisar el bug",
+      "timestamp": "23 Oct",
+      "unreadCount": 1,
+      "avatarUrl": "https://picsum.photos"
+    }
+  ],
+  "conversations": {
+    "1": [
+      {
+        "id": "m1_1",
+        "text": "Hola! ¿Cómo viene el código?",
+        "isFromMe": false,
+        "time": "14:30"
+      },
+      {
+        "id": "m1_2",
+        "text": "Dale, nos vemos mañana en la office",
+        "isFromMe": false,
+        "time": "14:32"
+      }
+    ],
+    "2": [
+      {
+        "id": "m2_1",
+        "text": "Te envié los diseños por mail",
+        "isFromMe": false,
+        "time": "11:15"
+      }
+    ],
+    "3": [
+      {
+        "id": "m3_1",
+        "text": "¡Buenísimo el avance de la app!",
+        "isFromMe": false,
+        "time": "Ayer"
+      }
+    ],
+    "4": [
+      {
+        "id": "m4_1",
+        "text": "Fijate si podés revisar el bug",
+        "isFromMe": false,
+        "time": "23 Oct"
+      }
+    ]
+  }
+}
