@@ -6,7 +6,7 @@
       "lastMessage": "Dale, nos vemos mañana en la office",
       "timestamp": "14:32",
       "unreadCount": 2,
-      "avatarUrl": "https://picsum.photos/id/64/100"
+      "avatarUrl": "https://picsum.photos/id/64/100.jpg"
     },
     {
       "id": "2",
@@ -14,7 +14,7 @@
       "lastMessage": "Te envié los diseños por mail",
       "timestamp": "11:15",
       "unreadCount": 0,
-      "avatarUrl": "https://picsum.photos/id/42/100"
+      "avatarUrl": "https://picsum.photos/id/42/100.jpg"
     },
     {
       "id": "3",
@@ -22,7 +22,7 @@
       "lastMessage": "¡Buenísimo el avance de la app!",
       "timestamp": "Ayer",
       "unreadCount": 0,
-      "avatarUrl": "https://picsum.photos/id/1/100"
+      "avatarUrl": "https://picsum.photos/id/1/100.jpg"
     },
     {
       "id": "4",
@@ -30,7 +30,7 @@
       "lastMessage": "Fijate si podés revisar el bug",
       "timestamp": "23 Oct",
       "unreadCount": 1,
-      "avatarUrl": "https://raw.githubusercontent.com/jfa2gov-web/MAGA_JSON_FILES/main/user_profile_pic/User_4.jpg"
+      "avatarUrl": "https://picsum.photos/id/4/100.jpg"
     }
   ],
   "conversations": {
