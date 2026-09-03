@@ -1,0 +1,72 @@
+[
+  {
+    "title": "NEW",
+    "items": [
+      {
+        "id": "1",
+        "userName": "Katerina Potts",
+        "userAvatarUrl": "https://i.pravatar.cc/150?img=1",
+        "timestamp": "2s ago",
+        "type": "LIKE_REEL",
+        "isUnread": true,
+        "mediaUrl": "https://picsum.photos/200.jpg",
+        "isFollowing": false
+      },
+      {
+        "id": "2",
+        "userName": "Sofia Nash",
+        "userAvatarUrl": "https://i.pravatar.cc/150?img=2",
+        "timestamp": "2s ago",
+        "type": "COMMENT_REEL",
+        "isUnread": false,
+        "mediaUrl": "https://picsum.photos/201.jpg",
+        "isFollowing": false
+      },
+      {
+        "id": "3",
+        "userName": "Chloe Decker",
+        "userAvatarUrl": "https://i.pravatar.cc/150?img=3",
+        "timestamp": "8h ago",
+        "type": "FOLLOW",
+        "isUnread": false,
+        "mediaUrl": null,
+        "isFollowing": false
+      },
+      {
+        "id": "4",
+        "userName": "Dalton Griffin",
+        "userAvatarUrl": "https://i.pravatar.cc/150?img=4",
+        "timestamp": "10h ago",
+        "type": "LIKE_PHOTO",
+        "isUnread": false,
+        "mediaUrl": "https://picsum.photos/202.jpg",
+        "isFollowing": false
+      }
+    ]
+  },
+  {
+    "title": "YESTERDAY",
+    "items": [
+      {
+        "id": "5",
+        "userName": "Megan Walker",
+        "userAvatarUrl": "https://i.pravatar.cc/150?img=5",
+        "timestamp": "1d",
+        "type": "ACCEPT_REQUEST",
+        "isUnread": false,
+        "mediaUrl": null,
+        "isFollowing": false
+      },
+      {
+        "id": "6",
+        "userName": "Katelyn Parks",
+        "userAvatarUrl": "https://i.pravatar.cc/150?img=6",
+        "timestamp": "1d",
+        "type": "TAGGED",
+        "isUnread": false,
+        "mediaUrl": "https://picsum.photos/203.jpg",
+        "isFollowing": false
+      }
+    ]
+  }
+]
