@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "url": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/003.mp4",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/003.webp",
+      "type": "VIDEO",
+      "creator": "@cyber_punk",
+      "description": "Luces de neón.",
+      "span": 2
+    },
+    {
+      "id": "2",
+      "url": "https://picsum.photos/seed/2/720/1280.jpg",
+      "thumbnailUrl": "https://picsum.photos/seed/2/250/350.jpg",
+      "type": "IMAGE",
+      "creator": "@urban_style",
+      "description": "Estética urbana nocturna.",
+      "span": 1
+    },
+    {
+      "id": "3",
+      "url": "https://picsum.photos/seed/3/250/350.jpg",
+      "thumbnailUrl": "https://picsum.photos/seed/3/250/350.jpg",
+      "type": "IMAGE",
+      "creator": "@indie_vibes",
+      "description": "Miradas perdidas.",
+      "span": 1
+    },
+    {
+      "id": "4",
+      "url": "https://picsum.photos/seed/4_0/720/1280.jpg",
+      "thumbnailUrl": "https://picsum.photos/seed/4_thumb/500/350.jpg",
+      "type": "CAROUSEL",
+      "creator": "@magazine_art",
+      "description": "Pruebas de render. (Galería Deslizable)",
+      "span": 2,
+      "carouselImages": [
+        "https://picsum.photos/seed/4_0/720/1280.jpg",
+        "https://picsum.photos/seed/4_1/720/1280.jpg",
+        "https://picsum.photos/seed/4_2/720/1280.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "url": "https://picsum.photos/seed/5/250/350.jpg",
+      "thumbnailUrl": "https://picsum.photos/seed/5/250/350.jpg",
+      "type": "IMAGE",
+      "creator": "@motion_design",
+      "description": "Revista de moda.",
+      "span": 1
+    },
+    {
+      "id": "6",
+      "url": "https://picsum.photos/seed/6/250/350.jpg",
+      "thumbnailUrl": "https://picsum.photos/seed/6/250/350.jpg",
+      "type": "IMAGE",
+      "creator": "@travel_lens",
+      "description": "Estética urbana nocturna.",
+      "span": 1
+    },
+    {
+      "id": "7",
+      "url": "https://picsum.photos/seed/7/250/350.jpg",
+      "thumbnailUrl": "https://picsum.photos/seed/7/250/350.jpg",
+      "type": "IMAGE",
+      "creator": "@indie_vibes",
+      "description": "Miradas perdidas.",
+      "span": 1
+    },
+    {
+      "id": "8",
+      "url": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/017.mp4",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/017.webp",
+      "type": "VIDEO",
+      "creator": "@motion_design",
+      "description": "Pruebas de render.",
+      "span": 2
+    },
+    {
+      "id": "9",
+      "url": "https://picsum.photos/seed/9/250/350.jpg",
+      "thumbnailUrl": "https://picsum.photos/seed/9/250/350.jpg",
+      "type": "IMAGE",
+      "creator": "@urban_style",
+      "description": "Luces de neón.",
+      "span": 1
+    },
+    {
+      "id": "10",
+      "url": "https://picsum.photos/seed/10_0/720/1280.jpg",
+      "thumbnailUrl": "https://picsum.photos/seed/10_thumb/250/350.jpg",
+      "type": "CAROUSEL",
+      "creator": "@cyber_punk",
+      "description": "Revista de moda. (Galería Deslizable)",
+      "span": 1,
+      "carouselImages": [
+        "https://picsum.photos/seed/10_0/720/1280.jpg",
+        "https://picsum.photos/seed/10_1/720/1280.jpg",
+        "https://picsum.photos/seed/10_2/720/1280.jpg"
+      ]
+    },
+    {
+      "id": "11",
+      "url": "https://picsum.photos/seed/11_0/720/1280.jpg",
+      "thumbnailUrl": "https://picsum.photos/seed/11_thumb/250/350.jpg",
+      "type": "CAROUSEL",
+      "creator": "@magazine_art",
+      "description": "Estética urbana nocturna. (Galería Deslizable)",
+      "span": 1,
+      "carouselImages": [
+        "https://picsum.photos/seed/11_0/720/1280.jpg",
+        "https://picsum.photos/seed/11_1/720/1280.jpg",
+        "https://picsum.photos/seed/11_2/720/1280.jpg"
+      ]
+    },
+    {
+      "id": "12",
+      "url": "https://picsum.photos/seed/12_0/720/1280.jpg",
+      "thumbnailUrl": "https://picsum.photos/seed/12_thumb/250/350.jpg",
+      "type": "CAROUSEL",
+      "creator": "@travel_lens",
+      "description": "Miradas perdidas. (Galería Deslizable)",
+      "span": 1,
+      "carouselImages": [
+        "https://picsum.photos/seed/12_0/720/1280.jpg",
+        "https://picsum.photos/seed/12_1/720/1280.jpg",
+        "https://picsum.photos/seed/12_2/720/1280.jpg"
+      ]
+    }
+  ]
+}
