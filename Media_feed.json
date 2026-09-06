@@ -11,8 +11,8 @@
     },
     {
       "id": "2",
-      "url": "https://picsum.photos/seed/2/720/1280.jpg",
-      "thumbnailUrl": "https://picsum.photos/seed/2/250/350.jpg",
+      "url": "https://picsum.photos/seed/2/720/1280.webp",
+      "thumbnailUrl": "https://picsum.photos/seed/2/250/350.webp",
       "type": "IMAGE",
       "creator": "@urban_style",
       "description": "Estética urbana nocturna.",
