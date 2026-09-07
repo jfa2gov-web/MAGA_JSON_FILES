@@ -1,0 +1,17 @@
+{
+  "id": "usr_9982",
+  "username": "katerina_potts",
+  "displayName": "Katerina Potts",
+  "avatarUrl": "https://i.pravatar.cc/150?img=1",
+  "bio": "Android Developer & Tech Enthusiast 🚀",
+  "followersCount": 1280,
+  "followingCount": 350,
+  "isFollowing": false,
+  "isAdmin": false,
+  "isMe": false,
+  "posts": [
+    { "id": "post_101", "imageUrl": "https://picsum.photos/300/300" },
+    { "id": "post_102", "imageUrl": "https://picsum.photos/301/301" },
+    { "id": "post_103", "imageUrl": "https://picsum.photos/302/302" }
+  ]
+}
