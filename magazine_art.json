@@ -1,0 +1,17 @@
+{
+  "id": "user_009",
+  "username": "magazine_art",
+  "displayName": "Mary stewart",
+  "avatarUrl": "https://i.pravatar.cc/150?img=11",
+  "bio": "Android Developer & Tech Enthusiast 🚀",
+  "followersCount": 5480,
+  "followingCount": 1450,
+  "isFollowing": false,
+  "isAdmin": false,
+  "isMe": false,
+  "posts": [
+    { "id": "post_101", "imageUrl": "https://picsum.photos/300/300" },
+    { "id": "post_102", "imageUrl": "https://picsum.photos/301/301" },
+    { "id": "post_103", "imageUrl": "https://picsum.photos/302/302" }
+  ]
+}
