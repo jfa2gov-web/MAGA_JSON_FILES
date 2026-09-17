@@ -12,7 +12,6 @@
   "posts": [
     { "id": "post_101", "imageUrl": "https://picsum.photos/300/300" },
     { "id": "post_102", "imageUrl": "https://picsum.photos/301/301" },
-    { "id": "post_103", "imageUrl": "https://picsum.photos/302/302" },
     { "id": "post_103", "imageUrl": "https://picsum.photos/302/302" }
   ]
 }
