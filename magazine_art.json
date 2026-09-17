@@ -12,6 +12,7 @@
   "posts": [
     {
       "id": "post_101",
+      "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://picsum.photos/300/300",
       "fullImageUrl": "https://picsum.photos/720/1280",
       "description": "Atardecer en la ciudad 🌆"
