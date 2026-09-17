@@ -1,5 +1,5 @@
   {
-  "id": "user_008",
+  "id": "magazine_art",
   "username": "magazine_art",
   "displayName": "Mary stewart",
   "avatarUrl": "https://i.pravatar.cc/150?img=11",
@@ -17,10 +17,12 @@
       "description": "Atardecer en la ciudad 🌆"
     },
     {
-      "id": "post_102",
-      "imageUrl": "https://picsum.photos/301/301",
-      "fullImageUrl": "https://picsum.photos/seed/301/720/1280",
-      "description": "Setup de trabajo del día ☕💻"
+      "id": "post_106",
+      "type": "IMAGE",
+      "imageUrl": "https://picsum.photos/300/300",
+      "fullImageUrl": "https://picsum.photos/seed/306/720/1280",
+      "description": "Con música de fondo 🎵",
+      "audioUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/audio/track1.mp3"
     },
     {
       "id": "post_103",
