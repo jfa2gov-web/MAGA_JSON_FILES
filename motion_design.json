@@ -1,6 +1,5 @@
 {
-  "id": "user_008",
-  "creatorId": "motion_design",
+  "id": "motion_design",
   "username": "motion_design",
   "displayName": "Peter Williams",
   "avatarUrl": "https://i.pravatar.cc/150?img=7",
@@ -11,8 +10,48 @@
   "isAdmin": false,
   "isMe": false,
   "posts": [
-    { "id": "post_101", "imageUrl": "https://picsum.photos/300/300" },
-    { "id": "post_102", "imageUrl": "https://picsum.photos/301/301" },
-    { "id": "post_103", "imageUrl": "https://picsum.photos/302/302" }
+    {
+      "id": "post_101",
+      "imageUrl": "https://picsum.photos/300/300",
+      "fullImageUrl": "https://picsum.photos/720/1280",
+      "description": "Atardecer en la ciudad 🌆"
+    },
+    {
+      "id": "post_102",
+      "imageUrl": "https://picsum.photos/301/301",
+      "fullImageUrl": "https://picsum.photos/seed/301/720/1280",
+      "description": "Setup de trabajo del día ☕💻"
+    },
+    {
+      "id": "post_103",
+      "imageUrl": "https://picsum.photos/302/302",
+      "fullImageUrl": "https://picsum.photos/seed/302/720/1280",
+      "description": "Testeando la nueva build 🚀"
+    },
+    {
+      "id": "post_104",
+      "imageUrl": "https://picsum.photos/303/303",
+      "fullImageUrl": "https://picsum.photos/seed/303/720/1280",
+      "description": "Café y código ☕💻"
+    },
+    {
+      "id": "post_104",
+      "type": "VIDEO",
+      "imageUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/003.webp",
+      "videoUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/003.mp4",
+      "description": "Probando reels 🎬"
+    },
+    {
+      "id": "post_105",
+      "type": "CAROUSEL",
+      "imageUrl": "https://picsum.photos/300/300",
+      "description": "Galería del finde 📸",
+      "carouselImages": [
+      "https://picsum.photos/seed/c1/720/1280",
+      "https://picsum.photos/seed/c2/720/1280",
+      "https://picsum.photos/seed/c3/720/1280"
+      ]
+    }
   ]
 }
+    
