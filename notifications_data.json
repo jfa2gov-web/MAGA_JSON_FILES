@@ -4,7 +4,7 @@
     "items": [
       {
         "id": "1",
-        "userId": "usr_9982",
+        "userId": "katerina_potts",
         "userName": "Katerina J Potts",
         "userAvatarUrl": "https://i.pravatar.cc/150?img=1",
         "timestamp": "2s ago",
@@ -15,7 +15,7 @@
       },
       {
         "id": "2",
-        "userId": "2",
+        "userId": "Sofia_Nash",
         "userName": "Sofia Nash",
         "userAvatarUrl": "https://i.pravatar.cc/150?img=2",
         "timestamp": "2s ago",
@@ -26,7 +26,7 @@
       },
       {
         "id": "3",
-        "userId": "3",
+        "userId": "Chloe_Decker",
         "userName": "Chloe Decker",
         "userAvatarUrl": "https://i.pravatar.cc/150?img=3",
         "timestamp": "8h ago",
