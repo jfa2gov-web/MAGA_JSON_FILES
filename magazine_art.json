@@ -12,14 +12,16 @@
   "posts": [
     {
       "id": "post_101",
+      "type": "IMAGE",
       "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://picsum.photos/300/300",
       "fullImageUrl": "https://picsum.photos/720/1280",
       "description": "Atardecer en la ciudad 🌆"
     },
     {
-      "id": "post_106",
+      "id": "post_102",
       "type": "IMAGE",
+      "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://picsum.photos/300/300",
       "fullImageUrl": "https://picsum.photos/seed/306/720/1280",
       "description": "Con música de fondo 🎵",
@@ -27,26 +29,40 @@
     },
     {
       "id": "post_103",
+      "type": "IMAGE",
+      "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://picsum.photos/302/302",
       "fullImageUrl": "https://picsum.photos/seed/302/720/1280",
       "description": "Testeando la nueva build 🚀"
     },
     {
       "id": "post_104",
+      "type": "IMAGE",
+      "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://picsum.photos/303/303",
       "fullImageUrl": "https://picsum.photos/seed/303/720/1280",
       "description": "Café y código ☕💻"
     },
     {
-      "id": "post_104",
+      "id": "post_105",
+      "type": "IMAGE",
+      "createdAt": "2026-09-15T14:30:00",
+      "imageUrl": "https://picsum.photos/304/304",
+      "fullImageUrl": "https://picsum.photos/seed/304/720/1280",
+      "description": "Nueva foto 📸"
+    },
+    {
+      "id": "post_106",
       "type": "VIDEO",
+      "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/003.webp",
       "videoUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/003.mp4",
       "description": "Probando reels 🎬"
     },
     {
-      "id": "post_105",
+      "id": "post_107",
       "type": "CAROUSEL",
+      "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://picsum.photos/300/300",
       "description": "Galería del finde 📸",
       "carouselImages": [
