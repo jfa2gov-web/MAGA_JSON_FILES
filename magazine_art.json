@@ -16,6 +16,7 @@
       "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://picsum.photos/300/300",
       "fullImageUrl": "https://picsum.photos/720/1280",
+      "audioUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/audio/track1.mp3",
       "description": "Atardecer en la ciudad 🌆"
     },
     {
@@ -24,8 +25,8 @@
       "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://picsum.photos/300/300",
       "fullImageUrl": "https://picsum.photos/seed/306/720/1280",
-      "description": "Con música de fondo 🎵",
-      "audioUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/audio/track1.mp3"
+      "audioUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/audio/track1.mp3",
+      "description": "Con música de fondo 🎵"
     },
     {
       "id": "post_103",
@@ -33,6 +34,7 @@
       "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://picsum.photos/302/302",
       "fullImageUrl": "https://picsum.photos/seed/302/720/1280",
+      "audioUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/audio/track1.mp3",
       "description": "Testeando la nueva build 🚀"
     },
     {
@@ -41,6 +43,7 @@
       "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://picsum.photos/303/303",
       "fullImageUrl": "https://picsum.photos/seed/303/720/1280",
+      "audioUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/audio/track1.mp3",
       "description": "Café y código ☕💻"
     },
     {
@@ -49,6 +52,7 @@
       "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://picsum.photos/304/304",
       "fullImageUrl": "https://picsum.photos/seed/304/720/1280",
+      "audioUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/audio/track1.mp3",
       "description": "Nueva foto 📸"
     },
     {
@@ -65,6 +69,7 @@
       "createdAt": "2026-09-15T14:30:00",
       "imageUrl": "https://picsum.photos/300/300",
       "description": "Galería del finde 📸",
+      "audioUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/audio/track1.mp3",
       "carouselImages": [
       "https://picsum.photos/seed/c1/720/1280",
       "https://picsum.photos/seed/c2/720/1280",
