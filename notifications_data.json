@@ -3,7 +3,7 @@
     "title": "NEW",
     "items": [
       {
-        "id": "1",
+        "id": "katerina_potts",
         "userId": "katerina_potts",
         "userName": "Katerina J Potts",
         "userAvatarUrl": "https://i.pravatar.cc/150?img=1",
@@ -14,7 +14,7 @@
         "isFollowing": false
       },
       {
-        "id": "2",
+        "id": "Sofia_Nash",
         "userId": "Sofia_Nash",
         "userName": "Sofia Nash",
         "userAvatarUrl": "https://i.pravatar.cc/150?img=2",
@@ -25,7 +25,7 @@
         "isFollowing": false
       },
       {
-        "id": "3",
+        "id": "Chloe_Decker",
         "userId": "Chloe_Decker",
         "userName": "Chloe Decker",
         "userAvatarUrl": "https://i.pravatar.cc/150?img=3",
