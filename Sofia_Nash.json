@@ -12,6 +12,15 @@
   "posts": [
     { "id": "post_101", "imageUrl": "https://picsum.photos/300/300" },
     { "id": "post_102", "imageUrl": "https://picsum.photos/301/301" },
-    { "id": "post_103", "imageUrl": "https://picsum.photos/302/302" }
+    { "id": "post_103", "imageUrl": "https://picsum.photos/302/302" 
+    },
+    {
+      "id": "post_105",
+      "type": "VIDEO",
+      "createdAt": "2026-09-15T14:30:00",
+      "imageUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/001.webp",
+      "videoUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/001.mp4",
+      "description": "Probando reels 🎬"
+    }
   ]
 }

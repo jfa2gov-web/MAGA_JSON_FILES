@@ -61,6 +61,14 @@
       "https://picsum.photos/seed/c2/720/1280",
       "https://picsum.photos/seed/c3/720/1280"
       ]
+    },
+    {
+      "id": "post_107",
+      "type": "VIDEO",
+      "createdAt": "2026-09-15T14:30:00",
+      "imageUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/001.webp",
+      "videoUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/001.mp4",
+      "description": "Probando reels 🎬"
     }
   ]
 }
