@@ -84,6 +84,21 @@
       "videoUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/022.mp4",
       "description": "Probando reels 🎬"
     }
+  ],
+"albums": [
+    {
+      "id": "album_1",
+      "title": "Trabajo",
+      "coverUrl": "https://picsum.photos/302/302",
+      "postIds": ["post_102", "post_103", "post_104"]
+    },
+    {
+      "id": "album_2",
+      "title": "Mix",
+      "coverUrl": "https://picsum.photos/300/300",
+      "postIds": ["post_101", "post_105", "post_106"]
+    }
   ]
 }
+
     
