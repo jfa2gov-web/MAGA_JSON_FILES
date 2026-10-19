@@ -84,6 +84,30 @@
       "videoUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/008.mp4",
       "description": "Probando reels 🎬"
     }
-  ]
-}
-    
+  ],
+"albums": [
+  {
+    "id": "album_1",
+    "title": "Trabajo",
+    "coverUrl": "https://picsum.photos/302/302",
+    "createdAt": "2026-09-15T14:30:00",
+    "items": [
+      {
+        "id": "a1_1",
+        "type": "IMAGE",
+        "imageUrl": "https://picsum.photos/310/310",
+        "fullImageUrl": "https://picsum.photos/seed/310/720/1280",
+        "description": "Primera foto del álbum"
+      },
+      {
+        "id": "a1_2",
+        "type": "VIDEO",
+        "imageUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/003.webp",
+        "videoUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/003.mp4",
+        "description": "Video del álbum",
+        "createdAt": "2026-09-16T10:00:00"
+      }
+    ]
+  }
+]
+}    
