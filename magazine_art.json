@@ -112,7 +112,7 @@
   {
     "id": "album_2",
     "title": "Mix",
-    "coverUrl": "https://picsum.photos/300/720/300",
+    "coverUrl": "https://picsum.photos/seed/300/720/300",
     "createdAt": "2026-09-15T14:30:00",
     "items": [
       {
