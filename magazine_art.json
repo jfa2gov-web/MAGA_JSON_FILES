@@ -95,7 +95,7 @@
       {
         "id": "a1_1",
         "type": "IMAGE",
-        "imageUrl": "https://picsum.photos/300/720/300",
+        "imageUrl": "https://picsum.photos/310/310",
         "fullImageUrl": "https://picsum.photos/seed/310/720/1280",
         "description": "Primera foto del álbum"
       },
@@ -112,7 +112,7 @@
   {
     "id": "album_2",
     "title": "Mix",
-    "coverUrl": "https://picsum.photos/302/302",
+    "coverUrl": "https://picsum.photos/300/720/300",
     "createdAt": "2026-09-15T14:30:00",
     "items": [
       {

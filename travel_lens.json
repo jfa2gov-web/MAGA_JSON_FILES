@@ -108,8 +108,54 @@
         "createdAt": "2026-09-16T10:00:00"
       }
     ]
+  },
+  {
+    "id": "album_2",
+    "title": "Mix",
+    "coverUrl": "https://picsum.photos/300/720/300",
+    "createdAt": "2026-09-15T14:30:00",
+    "items": [
+      {
+        "id": "a2_1",
+        "type": "IMAGE",
+        "imageUrl": "https://picsum.photos/310/310",
+        "fullImageUrl": "https://picsum.photos/seed/310/720/1280",
+        "description": "Primera foto del álbum"
+      },
+      {
+        "id": "a2_2",
+        "type": "VIDEO",
+        "imageUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/008.webp",
+        "videoUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/008.mp4",
+        "description": "Video del álbum",
+        "createdAt": "2026-09-16T10:00:00"
+      }
+    ]
+  },
+  {
+    "id": "album_3",
+    "title": "Trabajo",
+    "coverUrl": "https://picsum.photos/302/302",
+    "createdAt": "2026-09-15T14:30:00",
+    "items": [
+      {
+        "id": "a3_1",
+        "type": "Vacations",
+        "imageUrl": "https://picsum.photos/310/310",
+        "fullImageUrl": "https://picsum.photos/seed/310/720/1280",
+        "description": "Primera foto del álbum"
+      },
+      {
+        "id": "a3_2",
+        "type": "VIDEO",
+        "imageUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/021.webp",
+        "videoUrl": "https://raw.githubusercontent.com/jfa2gov-web/VIDS/main/Videos/021.mp4",
+        "description": "Video del álbum",
+        "createdAt": "2026-09-16T10:00:00"
+      }
+    ]
   }
 ]
-}
+}    
 
     
