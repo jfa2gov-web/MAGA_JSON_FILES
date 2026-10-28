@@ -9,6 +9,9 @@
   "isFollowing": false,
   "isAdmin": false,
   "isMe": false,
+  "country": "Argentina",
+  "joiningDate": "Marzo 2024",
+  "totalViews": 125400,
   "posts": [
     {
       "id": "post_101",
